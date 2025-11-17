@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joydeep8509" alt="joydeep8509" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [joydeep-bhandari-portfolio.vercel.app](portfolio-joydeep-bhandari.vercel.app)
+- 👨‍💻 All of my projects are available at [portfolio-joydeep-bhandari.vercel.app](portfolio-joydeep-bhandari.vercel.app)
 
 - 📫 How to reach me **joydeepbhandari76@gmail.com**
 
